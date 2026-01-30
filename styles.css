@@ -100,8 +100,8 @@ body {
     transition: opacity 0.2s ease, transform 0.2s ease;
     position: relative;
     top: -0.2rem;
-    font-family: 'Inter', sans-serif;
-    font-weight: 600;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600 !important;
     font-size: 1.15rem;
 }
 
